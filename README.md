@@ -1,5 +1,3 @@
-# Cardiology-heartcare-frontend
-# Cardiology Heart Care Clinic — Frontend
 
 > A clean, modern, and responsive medical clinic UI designed for cardiology and heart care services. Built using HTML5, Bootstrap, custom CSS, jQuery, Animate.css, Isotope, and Masonry.
 
@@ -42,3 +40,8 @@ cardiology-heartcare-frontend/
 │ └─ main.js
 └─ README.md
 ```
+## 🚀 Installation
+```bash
+git clone https://github.com/RHS-Rabbi/Cardiology-heartcare-frontend.git
+cd cardiology-heartcare-frontend
+# Open index.html in your browser
