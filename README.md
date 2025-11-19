@@ -45,3 +45,36 @@ cardiology-heartcare-frontend/
 git clone https://github.com/RHS-Rabbi/Cardiology-heartcare-frontend.git
 cd cardiology-heartcare-frontend
 # Open index.html in your browser
+
+📝 Customization
+
+Edit style.css to customize colors, typography, spacing
+
+Modify js/main.js for animations & filtering
+
+Replace images inside assets/img
+
+Update sections inside index.html as needed
+
+📌 Future Improvements
+
+Online appointment booking form
+
+Doctor profile pages
+
+Health blog section
+
+API integration for real patient data
+
+📜 License
+
+MIT License
+
+✉️ Developer
+
+Mohammad Rabbi Hossain (RHS-Rabbi)
+GitHub: https://github.com/RHS-Rabbi
+
+Portfolio: https://mohammadrabbihossain.vercel.app
+
+Email: rabbihossain187@gmail.com
